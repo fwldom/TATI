@@ -2,7 +2,7 @@ from tkinter import *
 
 import tkinter.messagebox
 tk = Tk()
-tk.title("Tic Tac Toe")
+tk.title("TATI By Fwldom")
 
 click = True
 
