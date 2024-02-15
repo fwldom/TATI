@@ -1,5 +1,5 @@
 # TATI
-TATI Game Programing Languge Python . For Woman Life Freedom
+TATI Game Programing Languge Python .
 
 Run The Game TATI
 ```
