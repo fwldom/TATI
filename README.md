@@ -1,5 +1,5 @@
 # TATI
-TATI Game Programing Languge Python .
+TATI Game Programming Language Python .
 
 Run The Game TATI
 ```
